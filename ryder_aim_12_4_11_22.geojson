@@ -1,0 +1,3520 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16441954,
+          26.81834865
+        ]
+      },
+      "properties": {
+        "name": 344528918,
+        "elevation_msl": 0,
+        "height": 96.9531804975148,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16342234,
+          26.81768954
+        ]
+      },
+      "properties": {
+        "name": 344528900,
+        "elevation_msl": 0,
+        "height": 95.8037165499708,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16443312,
+          26.8183284
+        ]
+      },
+      "properties": {
+        "name": 344528918,
+        "elevation_msl": 0,
+        "height": 40.0155141085804,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16126536,
+          26.81555643
+        ]
+      },
+      "properties": {
+        "name": 404467302,
+        "elevation_msl": 0,
+        "height": 41.4997103831088,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1594862,
+          26.81505821
+        ]
+      },
+      "properties": {
+        "name": 1012286,
+        "elevation_msl": 0,
+        "height": 96.8769693402204,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16092467,
+          26.81597909
+        ]
+      },
+      "properties": {
+        "name": 1009532,
+        "elevation_msl": 0,
+        "height": 38.4241178962384,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16047439,
+          26.81571372
+        ]
+      },
+      "properties": {
+        "name": 1010654,
+        "elevation_msl": 0,
+        "height": 96.4253896669772,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15852712,
+          26.81440142
+        ]
+      },
+      "properties": {
+        "name": 344398404,
+        "elevation_msl": 0,
+        "height": 98.8246928277444,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15756437,
+          26.81375518
+        ]
+      },
+      "properties": {
+        "name": 1015970,
+        "elevation_msl": 0,
+        "height": 103.608664142249,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16051546,
+          26.81571101
+        ]
+      },
+      "properties": {
+        "name": 1010654,
+        "elevation_msl": 0,
+        "height": 38.2195144776176,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15952688,
+          26.81505582
+        ]
+      },
+      "properties": {
+        "name": 1012286,
+        "elevation_msl": 0,
+        "height": 35.3966488361048,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15856346,
+          26.81438827
+        ]
+      },
+      "properties": {
+        "name": 344398404,
+        "elevation_msl": 0,
+        "height": 48.43204387266,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16248539,
+          26.8170227
+        ]
+      },
+      "properties": {
+        "name": 344528890,
+        "elevation_msl": 0,
+        "height": 39.6010559916432,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16144488,
+          26.81636768
+        ]
+      },
+      "properties": {
+        "name": 344528874,
+        "elevation_msl": 0,
+        "height": 97.3565777873264,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16345488,
+          26.81767753
+        ]
+      },
+      "properties": {
+        "name": 344528900,
+        "elevation_msl": 0,
+        "height": 28.7717226628211,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16150118,
+          26.81636335
+        ]
+      },
+      "properties": {
+        "name": 344528874,
+        "elevation_msl": 0,
+        "height": 39.80813939722,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16245547,
+          26.8170324
+        ]
+      },
+      "properties": {
+        "name": 344528890,
+        "elevation_msl": 0,
+        "height": 97.544512143734,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15757349,
+          26.81373505
+        ]
+      },
+      "properties": {
+        "name": 1015970,
+        "elevation_msl": 0,
+        "height": 49.480417593872,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15657357,
+          26.81308847
+        ]
+      },
+      "properties": {
+        "name": 1018160,
+        "elevation_msl": 0,
+        "height": 116.655420366832,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15658472,
+          26.81307573
+        ]
+      },
+      "properties": {
+        "name": 1018160,
+        "elevation_msl": 0,
+        "height": 52.077507900076,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15708311,
+          26.81340948
+        ]
+      },
+      "properties": {
+        "name": 1016900,
+        "elevation_msl": 0,
+        "height": 47.9076820448568,
+        "feeder_number": 405331,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "BEELINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17131264,
+          26.82296708
+        ]
+      },
+      "properties": {
+        "name": 990128,
+        "elevation_msl": 0,
+        "height": 96.9158711787356,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17031736,
+          26.82229468
+        ]
+      },
+      "properties": {
+        "name": 992276,
+        "elevation_msl": 0,
+        "height": 97.8907946679384,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17134145,
+          26.82294351
+        ]
+      },
+      "properties": {
+        "name": 990128,
+        "elevation_msl": 0,
+        "height": 40.3154176942928,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17036205,
+          26.8222872
+        ]
+      },
+      "properties": {
+        "name": 992276,
+        "elevation_msl": 0,
+        "height": 35.08387169355,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16539592,
+          26.81900035
+        ]
+      },
+      "properties": {
+        "name": 344528935,
+        "elevation_msl": 0,
+        "height": 96.45709954332,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16543177,
+          26.81899322
+        ]
+      },
+      "properties": {
+        "name": 344528935,
+        "elevation_msl": 0,
+        "height": 39.8176036691764,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16641459,
+          26.81968191
+        ]
+      },
+      "properties": {
+        "name": 344528945,
+        "elevation_msl": 0,
+        "height": 97.1004400166628,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16743425,
+          26.82033766
+        ]
+      },
+      "properties": {
+        "name": 344528962,
+        "elevation_msl": 0,
+        "height": 39.1365255962008,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16739412,
+          26.82034503
+        ]
+      },
+      "properties": {
+        "name": 344528962,
+        "elevation_msl": 0,
+        "height": 97.3935838580644,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16643886,
+          26.8196706
+        ]
+      },
+      "properties": {
+        "name": 344528945,
+        "elevation_msl": 0,
+        "height": 39.578349855746,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1683729,
+          26.82100782
+        ]
+      },
+      "properties": {
+        "name": 344528972,
+        "elevation_msl": 0,
+        "height": 96.6568036507604,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16933041,
+          26.82164128
+        ]
+      },
+      "properties": {
+        "name": 344528984,
+        "elevation_msl": 0,
+        "height": 69.0224762244672,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16933004,
+          26.82164611
+        ]
+      },
+      "properties": {
+        "name": 344528984,
+        "elevation_msl": 0,
+        "height": 98.1094787628628,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16840018,
+          26.82098627
+        ]
+      },
+      "properties": {
+        "name": 344528972,
+        "elevation_msl": 0,
+        "height": 39.8422994704916,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16936795,
+          26.82163903
+        ]
+      },
+      "properties": {
+        "name": 344528984,
+        "elevation_msl": 0,
+        "height": 21.1327317851713,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18408841,
+          26.83151869
+        ]
+      },
+      "properties": {
+        "name": 969062,
+        "elevation_msl": 0,
+        "height": 96.9240244926448,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18215994,
+          26.83018796
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 38.6951372946748,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18311538,
+          26.83085493
+        ]
+      },
+      "properties": {
+        "name": 971816,
+        "elevation_msl": 0,
+        "height": 97.3759173548744,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18213712,
+          26.8301996
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 94.8069030010124,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18412032,
+          26.83150598
+        ]
+      },
+      "properties": {
+        "name": 969062,
+        "elevation_msl": 0,
+        "height": 38.108608338898,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.183139,
+          26.83084904
+        ]
+      },
+      "properties": {
+        "name": 971816,
+        "elevation_msl": 0,
+        "height": 30.9804036783808,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17822464,
+          26.82755342
+        ]
+      },
+      "properties": {
+        "name": 979688,
+        "elevation_msl": 0,
+        "height": 39.7050131472008,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17819201,
+          26.82757311
+        ]
+      },
+      "properties": {
+        "name": 979688,
+        "elevation_msl": 0,
+        "height": 96.548170412376,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17724343,
+          26.82689715
+        ]
+      },
+      "properties": {
+        "name": 981152,
+        "elevation_msl": 0,
+        "height": 39.5079804965388,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17721232,
+          26.82691836
+        ]
+      },
+      "properties": {
+        "name": 981152,
+        "elevation_msl": 0,
+        "height": 96.9481750839688,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17922028,
+          26.82822196
+        ]
+      },
+      "properties": {
+        "name": 978278,
+        "elevation_msl": 0,
+        "height": 39.4235613993492,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17919341,
+          26.82822994
+        ]
+      },
+      "properties": {
+        "name": 978278,
+        "elevation_msl": 0,
+        "height": 97.6557713008376,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17622315,
+          26.82626052
+        ]
+      },
+      "properties": {
+        "name": 982862,
+        "elevation_msl": 0,
+        "height": 96.7165204177632,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17524565,
+          26.8256013
+        ]
+      },
+      "properties": {
+        "name": 984248,
+        "elevation_msl": 0,
+        "height": 98.2928309668928,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17625713,
+          26.82623464
+        ]
+      },
+      "properties": {
+        "name": 982862,
+        "elevation_msl": 0,
+        "height": 37.623432306312,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1752801,
+          26.82558243
+        ]
+      },
+      "properties": {
+        "name": 984248,
+        "elevation_msl": 0,
+        "height": 39.4031658606388,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18213595,
+          26.83019905
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 96.446033762126,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18114227,
+          26.82953592
+        ]
+      },
+      "properties": {
+        "name": 433692564,
+        "elevation_msl": 0,
+        "height": 96.7679487330572,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18018099,
+          26.82889317
+        ]
+      },
+      "properties": {
+        "name": 976598,
+        "elevation_msl": 0,
+        "height": 96.9155888624536,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18117611,
+          26.82952334
+        ]
+      },
+      "properties": {
+        "name": 433692564,
+        "elevation_msl": 0,
+        "height": 39.4914448004716,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18020674,
+          26.82887646
+        ]
+      },
+      "properties": {
+        "name": 976598,
+        "elevation_msl": 0,
+        "height": 39.7355141324288,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17232832,
+          26.82363728
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 96.180583950482,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17330694,
+          26.82429512
+        ]
+      },
+      "properties": {
+        "name": 986816,
+        "elevation_msl": 0,
+        "height": 96.3754565945132,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17332607,
+          26.82427518
+        ]
+      },
+      "properties": {
+        "name": 986816,
+        "elevation_msl": 0,
+        "height": 38.7764691214244,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17232763,
+          26.82360982
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 37.699774992482,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17429247,
+          26.82495766
+        ]
+      },
+      "properties": {
+        "name": 985406,
+        "elevation_msl": 0,
+        "height": 97.6760207437428,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17430501,
+          26.82493145
+        ]
+      },
+      "properties": {
+        "name": 985406,
+        "elevation_msl": 0,
+        "height": 39.1986775010768,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17527617,
+          26.82557586
+        ]
+      },
+      "properties": {
+        "name": 984248,
+        "elevation_msl": 0,
+        "height": 39.3827773101176,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17232729,
+          26.82364271
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 16.1230408407404,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18804691,
+          26.83416376
+        ]
+      },
+      "properties": {
+        "name": 961820,
+        "elevation_msl": 0,
+        "height": 97.4011692257612,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1634686,
+          26.83981462
+        ]
+      },
+      "properties": {
+        "name": 1731020,
+        "elevation_msl": 0,
+        "height": 92.3447477384964,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16319797,
+          26.84010602
+        ]
+      },
+      "properties": {
+        "name": 403328852,
+        "elevation_msl": 0,
+        "height": 38.766404947874,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16300171,
+          26.84031356
+        ]
+      },
+      "properties": {
+        "name": 397421036,
+        "elevation_msl": 0,
+        "height": 37.7050731881896,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16419444,
+          26.83983737
+        ]
+      },
+      "properties": {
+        "name": 403328860,
+        "elevation_msl": 0,
+        "height": 37.6378749576928,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16321748,
+          26.84008047
+        ]
+      },
+      "properties": {
+        "name": 403328852,
+        "elevation_msl": 0,
+        "height": 33.6362160697972,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19196198,
+          26.83678408
+        ]
+      },
+      "properties": {
+        "name": 954422,
+        "elevation_msl": 0,
+        "height": 97.3981138122776,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19093079,
+          26.83608594
+        ]
+      },
+      "properties": {
+        "name": 956516,
+        "elevation_msl": 0,
+        "height": 96.383771292942,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19398615,
+          26.83809781
+        ]
+      },
+      "properties": {
+        "name": 950030,
+        "elevation_msl": 0,
+        "height": 39.63211740996,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19294695,
+          26.83743941
+        ]
+      },
+      "properties": {
+        "name": 951854,
+        "elevation_msl": 0,
+        "height": 97.2658914983352,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19002496,
+          26.83547558
+        ]
+      },
+      "properties": {
+        "name": 958220,
+        "elevation_msl": 0,
+        "height": 95.5192365539908,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18904496,
+          26.83479131
+        ]
+      },
+      "properties": {
+        "name": 959948,
+        "elevation_msl": 0,
+        "height": 39.517058023076,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19297875,
+          26.83742748
+        ]
+      },
+      "properties": {
+        "name": 951854,
+        "elevation_msl": 0,
+        "height": 38.2009376397528,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19199155,
+          26.8367683
+        ]
+      },
+      "properties": {
+        "name": 954422,
+        "elevation_msl": 0,
+        "height": 38.7213036669032,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19095305,
+          26.83606688
+        ]
+      },
+      "properties": {
+        "name": 956516,
+        "elevation_msl": 0,
+        "height": 38.9913236558588,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19004167,
+          26.83546474
+        ]
+      },
+      "properties": {
+        "name": 958220,
+        "elevation_msl": 0,
+        "height": 37.048248724914,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19638129,
+          26.8407431
+        ]
+      },
+      "properties": {
+        "name": 1708430,
+        "elevation_msl": 0,
+        "height": 85.6102029363768,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.195671,
+          26.84071687
+        ]
+      },
+      "properties": {
+        "name": 403328970,
+        "elevation_msl": 0,
+        "height": 42.4385241270616,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19502548,
+          26.84070401
+        ]
+      },
+      "properties": {
+        "name": 1708448,
+        "elevation_msl": 0,
+        "height": 84.4024734029788,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19431276,
+          26.8406831
+        ]
+      },
+      "properties": {
+        "name": 403604167,
+        "elevation_msl": 0,
+        "height": 40.6334290233668,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1936762,
+          26.84067181
+        ]
+      },
+      "properties": {
+        "name": 1708454,
+        "elevation_msl": 0,
+        "height": 84.120741372966,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19233147,
+          26.8406254
+        ]
+      },
+      "properties": {
+        "name": 1708460,
+        "elevation_msl": 0,
+        "height": 86.5203886610408,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19165429,
+          26.84060317
+        ]
+      },
+      "properties": {
+        "name": 403604177,
+        "elevation_msl": 0,
+        "height": 43.3242630989748,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19097534,
+          26.84058573
+        ]
+      },
+      "properties": {
+        "name": 1708466,
+        "elevation_msl": 0,
+        "height": 86.9392472374364,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19495972,
+          26.8387537
+        ]
+      },
+      "properties": {
+        "name": 344398363,
+        "elevation_msl": 0,
+        "height": 38.6339593727696,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19500738,
+          26.83881797
+        ]
+      },
+      "properties": {
+        "name": 344398363,
+        "elevation_msl": 0,
+        "height": 98.238168661994,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19592943,
+          26.8394238
+        ]
+      },
+      "properties": {
+        "name": 946826,
+        "elevation_msl": 0,
+        "height": 96.2869531139908,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19394682,
+          26.83810917
+        ]
+      },
+      "properties": {
+        "name": 950030,
+        "elevation_msl": 0,
+        "height": 96.8982433894576,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18962151,
+          26.8405487
+        ]
+      },
+      "properties": {
+        "name": 1708472,
+        "elevation_msl": 0,
+        "height": 85.17168661657,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19028672,
+          26.84056627
+        ]
+      },
+      "properties": {
+        "name": 403604182,
+        "elevation_msl": 0,
+        "height": 39.491672687618,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19297295,
+          26.8406428
+        ]
+      },
+      "properties": {
+        "name": 403604172,
+        "elevation_msl": 0,
+        "height": 39.5992911621904,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19592988,
+          26.83939687
+        ]
+      },
+      "properties": {
+        "name": 946826,
+        "elevation_msl": 0,
+        "height": 37.7527460899776,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19199169,
+          26.83676833
+        ]
+      },
+      "properties": {
+        "name": 954422,
+        "elevation_msl": 0,
+        "height": 35.4147922421972,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18507598,
+          26.83217291
+        ]
+      },
+      "properties": {
+        "name": 273278309,
+        "elevation_msl": 0,
+        "height": 97.313596617972,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1840885,
+          26.83151673
+        ]
+      },
+      "properties": {
+        "name": 969062,
+        "elevation_msl": 0,
+        "height": 96.8497333813436,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18606352,
+          26.83283646
+        ]
+      },
+      "properties": {
+        "name": 965426,
+        "elevation_msl": 0,
+        "height": 96.539350694246,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18609375,
+          26.83281836
+        ]
+      },
+      "properties": {
+        "name": 965426,
+        "elevation_msl": 0,
+        "height": 38.362229410006,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18311589,
+          26.830855
+        ]
+      },
+      "properties": {
+        "name": 971816,
+        "elevation_msl": 0,
+        "height": 97.55531070051,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18213694,
+          26.83019858
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 97.894344668052,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18216036,
+          26.83018825
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 39.0060964253604,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18510521,
+          26.83216188
+        ]
+      },
+      "properties": {
+        "name": 273278309,
+        "elevation_msl": 0,
+        "height": 38.9783210307708,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18411992,
+          26.83150753
+        ]
+      },
+      "properties": {
+        "name": 969062,
+        "elevation_msl": 0,
+        "height": 38.5220547760128,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18546172,
+          26.83238065
+        ]
+      },
+      "properties": {
+        "name": 404417143,
+        "elevation_msl": 0,
+        "height": 38.028342424256,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18708696,
+          26.83348421
+        ]
+      },
+      "properties": {
+        "name": 963770,
+        "elevation_msl": 0,
+        "height": 38.8184119377272,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18706267,
+          26.83349424
+        ]
+      },
+      "properties": {
+        "name": 963770,
+        "elevation_msl": 0,
+        "height": 96.0066422782492,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18903121,
+          26.83481198
+        ]
+      },
+      "properties": {
+        "name": 959948,
+        "elevation_msl": 0,
+        "height": 96.8958727528988,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18807453,
+          26.83414573
+        ]
+      },
+      "properties": {
+        "name": 961820,
+        "elevation_msl": 0,
+        "height": 39.1542389825944,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19095108,
+          26.83607117
+        ]
+      },
+      "properties": {
+        "name": 956516,
+        "elevation_msl": 0,
+        "height": 39.072825725396,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19004496,
+          26.8354624
+        ]
+      },
+      "properties": {
+        "name": 958220,
+        "elevation_msl": 0,
+        "height": 37.5952112424168,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1851067,
+          26.83215979
+        ]
+      },
+      "properties": {
+        "name": 273278309,
+        "elevation_msl": 0,
+        "height": 38.9594779855484,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18887553,
+          26.84052357
+        ]
+      },
+      "properties": {
+        "name": 403604187,
+        "elevation_msl": 0,
+        "height": 37.6414787635824,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1882719,
+          26.84050991
+        ]
+      },
+      "properties": {
+        "name": 1708478,
+        "elevation_msl": 0,
+        "height": 83.72397331565,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18770802,
+          26.84049368
+        ]
+      },
+      "properties": {
+        "name": 403604192,
+        "elevation_msl": 0,
+        "height": 34.1545052596108,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18670899,
+          26.84046146
+        ]
+      },
+      "properties": {
+        "name": 1708484,
+        "elevation_msl": 0,
+        "height": 81.657890900454,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18603257,
+          26.84044341
+        ]
+      },
+      "properties": {
+        "name": 403604201,
+        "elevation_msl": 0,
+        "height": 38.4403934873104,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18536023,
+          26.84042833
+        ]
+      },
+      "properties": {
+        "name": 1708490,
+        "elevation_msl": 0,
+        "height": 82.8752548829792,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18462333,
+          26.84040497
+        ]
+      },
+      "properties": {
+        "name": 403604205,
+        "elevation_msl": 0,
+        "height": 35.557432076158,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18389678,
+          26.84038819
+        ]
+      },
+      "properties": {
+        "name": 1708436,
+        "elevation_msl": 0,
+        "height": 85.2737698547448,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17822495,
+          26.82755342
+        ]
+      },
+      "properties": {
+        "name": 979688,
+        "elevation_msl": 0,
+        "height": 38.8161787683644,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1792203,
+          26.82822182
+        ]
+      },
+      "properties": {
+        "name": 978278,
+        "elevation_msl": 0,
+        "height": 39.463024392738,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17724363,
+          26.82689765
+        ]
+      },
+      "properties": {
+        "name": 981152,
+        "elevation_msl": 0,
+        "height": 39.539450412244,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17919239,
+          26.82823152
+        ]
+      },
+      "properties": {
+        "name": 978278,
+        "elevation_msl": 0,
+        "height": 97.6622830136444,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17819836,
+          26.82756691
+        ]
+      },
+      "properties": {
+        "name": 979688,
+        "elevation_msl": 0,
+        "height": 96.031279483762,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17721094,
+          26.82691602
+        ]
+      },
+      "properties": {
+        "name": 981152,
+        "elevation_msl": 0,
+        "height": 90.6128188773004,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18018098,
+          26.82889302
+        ]
+      },
+      "properties": {
+        "name": 976598,
+        "elevation_msl": 0,
+        "height": 96.331182052414,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18114188,
+          26.82953516
+        ]
+      },
+      "properties": {
+        "name": 433692564,
+        "elevation_msl": 0,
+        "height": 96.68606116482,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18117787,
+          26.82952378
+        ]
+      },
+      "properties": {
+        "name": 433692564,
+        "elevation_msl": 0,
+        "height": 39.7621265676636,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.180207,
+          26.82887635
+        ]
+      },
+      "properties": {
+        "name": 976598,
+        "elevation_msl": 0,
+        "height": 39.7575195465188,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1831395,
+          26.83084913
+        ]
+      },
+      "properties": {
+        "name": 971816,
+        "elevation_msl": 0,
+        "height": 38.6139353891892,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18307387,
+          26.84035835
+        ]
+      },
+      "properties": {
+        "name": 403328954,
+        "elevation_msl": 0,
+        "height": 36.417037418626,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18243876,
+          26.84034603
+        ]
+      },
+      "properties": {
+        "name": 1708442,
+        "elevation_msl": 0,
+        "height": 85.557700244408,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18146117,
+          26.84031019
+        ]
+      },
+      "properties": {
+        "name": 403328911,
+        "elevation_msl": 0,
+        "height": 34.1753717957116,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18095705,
+          26.84029832
+        ]
+      },
+      "properties": {
+        "name": 1708580,
+        "elevation_msl": 0,
+        "height": 84.1879793016268,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18024432,
+          26.84027634
+        ]
+      },
+      "properties": {
+        "name": 403604209,
+        "elevation_msl": 0,
+        "height": 39.822803275642,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17952711,
+          26.84025577
+        ]
+      },
+      "properties": {
+        "name": 1708598,
+        "elevation_msl": 0,
+        "height": 84.2279461336144,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17803446,
+          26.84021574
+        ]
+      },
+      "properties": {
+        "name": 1708604,
+        "elevation_msl": 0,
+        "height": 83.9130295224872,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17902378,
+          26.84024201
+        ]
+      },
+      "properties": {
+        "name": 403328908,
+        "elevation_msl": 0,
+        "height": 34.7015879214744,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17853574,
+          26.84022868
+        ]
+      },
+      "properties": {
+        "name": 403328907,
+        "elevation_msl": 0,
+        "height": 35.234366777106,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17655618,
+          26.84017603
+        ]
+      },
+      "properties": {
+        "name": 1708610,
+        "elevation_msl": 0,
+        "height": 83.9211546539808,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17755244,
+          26.8402038
+        ]
+      },
+      "properties": {
+        "name": 403328906,
+        "elevation_msl": 0,
+        "height": 34.6779156110056,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18343995,
+          26.84037011
+        ]
+      },
+      "properties": {
+        "name": 403328913,
+        "elevation_msl": 0,
+        "height": 35.4011474911044,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18195774,
+          26.84032736
+        ]
+      },
+      "properties": {
+        "name": 403328912,
+        "elevation_msl": 0,
+        "height": 29.6696659691143,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17721148,
+          26.82691821
+        ]
+      },
+      "properties": {
+        "name": 981152,
+        "elevation_msl": 0,
+        "height": 96.7914893178,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17429239,
+          26.8249577
+        ]
+      },
+      "properties": {
+        "name": 985406,
+        "elevation_msl": 0,
+        "height": 97.6150727102964,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17430575,
+          26.82493192
+        ]
+      },
+      "properties": {
+        "name": 985406,
+        "elevation_msl": 0,
+        "height": 39.2509535854268,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17524397,
+          26.82560236
+        ]
+      },
+      "properties": {
+        "name": 984248,
+        "elevation_msl": 0,
+        "height": 98.475430644652,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762232,
+          26.82626055
+        ]
+      },
+      "properties": {
+        "name": 982862,
+        "elevation_msl": 0,
+        "height": 96.6495827515792,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17330712,
+          26.82429512
+        ]
+      },
+      "properties": {
+        "name": 986816,
+        "elevation_msl": 0,
+        "height": 96.4086343842888,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17332538,
+          26.8242739
+        ]
+      },
+      "properties": {
+        "name": 986816,
+        "elevation_msl": 0,
+        "height": 38.8912574453076,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17625678,
+          26.82623427
+        ]
+      },
+      "properties": {
+        "name": 982862,
+        "elevation_msl": 0,
+        "height": 37.9204898289412,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1752804,
+          26.82558253
+        ]
+      },
+      "properties": {
+        "name": 984248,
+        "elevation_msl": 0,
+        "height": 39.3781499477648,
+        "feeder_number": 410661,
+        "usage": "Lateral",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17556841,
+          26.84014103
+        ]
+      },
+      "properties": {
+        "name": 403328902,
+        "elevation_msl": 0,
+        "height": 36.2306898732928,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17508768,
+          26.84013588
+        ]
+      },
+      "properties": {
+        "name": 1708616,
+        "elevation_msl": 0,
+        "height": 84.5825745898444,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17408836,
+          26.8401043
+        ]
+      },
+      "properties": {
+        "name": 403328894,
+        "elevation_msl": 0,
+        "height": 37.7786373309636,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17359882,
+          26.84009624
+        ]
+      },
+      "properties": {
+        "name": 1708622,
+        "elevation_msl": 0,
+        "height": 83.334994136536,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17312064,
+          26.84008342
+        ]
+      },
+      "properties": {
+        "name": 403328887,
+        "elevation_msl": 0,
+        "height": 33.7862560352284,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17211234,
+          26.84005595
+        ]
+      },
+      "properties": {
+        "name": 1708628,
+        "elevation_msl": 0,
+        "height": 81.3693964358416,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17260729,
+          26.84006592
+        ]
+      },
+      "properties": {
+        "name": 403328885,
+        "elevation_msl": 0,
+        "height": 35.330378591202,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17162482,
+          26.84004388
+        ]
+      },
+      "properties": {
+        "name": 403328876,
+        "elevation_msl": 0,
+        "height": 34.8264887456812,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17112043,
+          26.84003017
+        ]
+      },
+      "properties": {
+        "name": 403328875,
+        "elevation_msl": 0,
+        "height": 36.586056616948,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17133249,
+          26.84003773
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 20.2351930326968,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17449459,
+          26.8401166
+        ]
+      },
+      "properties": {
+        "name": 403328895,
+        "elevation_msl": 0,
+        "height": 34.9706952791672,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17704988,
+          26.84018905
+        ]
+      },
+      "properties": {
+        "name": 403328905,
+        "elevation_msl": 0,
+        "height": 35.4967507093868,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16959389,
+          26.83998814
+        ]
+      },
+      "properties": {
+        "name": 403604224,
+        "elevation_msl": 0,
+        "height": 37.1374297973216,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16915411,
+          26.83997702
+        ]
+      },
+      "properties": {
+        "name": 1708640,
+        "elevation_msl": 0,
+        "height": 84.4915136617336,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16865288,
+          26.83996158
+        ]
+      },
+      "properties": {
+        "name": 403604217,
+        "elevation_msl": 0,
+        "height": 35.3349106123444,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16767949,
+          26.83993809
+        ]
+      },
+      "properties": {
+        "name": 1708586,
+        "elevation_msl": 0,
+        "height": 83.7536874570208,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16714301,
+          26.83992061
+        ]
+      },
+      "properties": {
+        "name": 1708592,
+        "elevation_msl": 0,
+        "height": 93.9049064498388,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16620792,
+          26.83989826
+        ]
+      },
+      "properties": {
+        "name": 1708730,
+        "elevation_msl": 0,
+        "height": 85.5559198637736,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16548818,
+          26.83987999
+        ]
+      },
+      "properties": {
+        "name": 403328864,
+        "elevation_msl": 0,
+        "height": 35.5296572065028,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16492501,
+          26.83985948
+        ]
+      },
+      "properties": {
+        "name": 0,
+        "elevation_msl": 0,
+        "height": 87.3925795354076,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16812068,
+          26.83995049
+        ]
+      },
+      "properties": {
+        "name": 403604216,
+        "elevation_msl": 0,
+        "height": 35.52881839414,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17063898,
+          26.84001823
+        ]
+      },
+      "properties": {
+        "name": 1708634,
+        "elevation_msl": 0,
+        "height": 85.185796033032,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17211229,
+          26.84005428
+        ]
+      },
+      "properties": {
+        "name": 1708628,
+        "elevation_msl": 0,
+        "height": 81.9208769981084,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16547099,
+          26.83988089
+        ]
+      },
+      "properties": {
+        "name": 403328864,
+        "elevation_msl": 0,
+        "height": 35.5898859157792,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16812089,
+          26.8399509
+        ]
+      },
+      "properties": {
+        "name": 403604216,
+        "elevation_msl": 0,
+        "height": 35.4969223629356,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17013919,
+          26.84000159
+        ]
+      },
+      "properties": {
+        "name": 403604225,
+        "elevation_msl": 0,
+        "height": 38.2945464682076,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": false,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16484434,
+          26.83986143
+        ]
+      },
+      "properties": {
+        "name": 1708742,
+        "elevation_msl": 0,
+        "height": 40.388403195316,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16476914,
+          26.83984888
+        ]
+      },
+      "properties": {
+        "name": 1708742,
+        "elevation_msl": 0,
+        "height": 88.2673697208812,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16475898,
+          26.83985292
+        ]
+      },
+      "properties": {
+        "name": 1708742,
+        "elevation_msl": 0,
+        "height": 79.785887395668,
+        "feeder_number": 410661,
+        "usage": "Feeder",
+        "complex": true,
+        "substation": "RYDER"
+      }
+    }
+  ]
+}
